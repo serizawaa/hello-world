@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Saint Cloud state University is the best universriy to read in!
